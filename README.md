@@ -1,4 +1,4 @@
-# Musician Profile Form Application
+# Artist Info Portal
 
 This application consists of a musician profile submission form with a complete backend for data management. The system allows musicians to submit their profiles with detailed information about their background, experience, and music samples.
 
